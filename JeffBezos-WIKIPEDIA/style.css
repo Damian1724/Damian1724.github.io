@@ -1,0 +1,201 @@
+body{
+  padding-left: 1%;
+  padding-right: 1%;
+}
+
+#one{
+  width: 200px;
+  height: 300px;
+
+}
+
+#orderlist{
+  border: 2px solid black;
+  width: 10%;
+  background-color: #c0cec3;
+}
+
+#orderlist p{
+  font-size: 1.2em;
+}
+
+#firstdiv{
+  float: right;
+  border-top: 0px;
+  border: 2px solid black;
+  background-color:  #c0cec3;
+  width: 16%;
+  text-align: center;
+  margin-left: 0.5%;
+
+}
+
+#firstdiv #date{
+  font-size: 0.8em;
+
+}
+
+#firstdiv #name{
+  font-size: 1.2em;
+}
+.divp{
+  height: 750px;
+}
+
+ #photo_two{
+  width: 200px;
+  height: 200px;
+  position: relative;
+  left: 2px;
+  top: 15px;
+}
+.second{
+  float: right;
+  padding-bottom: 2%;
+  padding-left: 1%;
+  border: 2px solid black;
+  width: 220px;
+  height: 220px;
+  background-color: #e3e8ef;
+  position: relative;
+  bottom: 40px;
+}
+.photo3{
+  width: 200px;
+  height: 200px;
+  position: relative;
+  right: -10px;
+  top: 5px;
+}
+.third{
+  border: 2px black solid;
+  width: 250px;
+  float: left;
+  padding-right: 10px;
+  text-align: center;
+  background-color: #e3e8ef;
+  margin-right: 10px;
+}
+.photo4{
+  width: 200px;
+  height: 200px;
+  position: relative;
+  top: 4px;
+}
+.fourth{
+  border: 2px black solid;
+  float: right;
+  width: 220px;
+  text-align: center;
+  margin-left: 2px;
+  background-color: #e3e8ef;
+}
+#photo5{
+  width: 280px;
+  height: 200px;
+  position: relative;
+  left: 10px;
+  top: 10px;
+}
+
+.fifth{
+  width: 300px;
+  height: 275px;
+  border: 2px solid black;
+  background-color: #e3e8ef;
+  padding-left: 5px;
+  float: right;
+}
+.six{
+  width: 250px;
+  height: 200px;
+  float: right;
+  background-color: #e3e8ef;
+  padding-left: 10px;
+  border: 2px solid black;
+}
+
+.six h4{
+    text-align: center;
+    line-height: 0.5;
+}
+
+.six p{
+  font-size: 0.8em;
+  line-height: 1.5;
+
+}
+.seven{
+  background: #e3e8ef;
+  height: 350px;
+  width: 300px;
+  float: right;
+  border: 2px solid black;
+  margin-left: 5px;
+}
+ #header{
+  text-align: center;
+  margin-top: 5px;
+  line-height: 0.5;
+}
+.red{
+  color: red;
+}
+.green{
+  color: green;
+}
+.Blue{
+  color: blue;
+}
+table{
+  width: 300px;
+}
+.d{
+  font-size: 0.85em;
+  line-height: 0.89;
+}
+#photo6{
+  width: 300px;
+  height: 200px;
+  position: relative;
+
+}
+.eight{
+  width: 300px;
+  height: 280px;
+  border: 2px solid black;
+  background-color:  #e3e8ef;
+  float: left;
+  margin-right: 10px;
+
+}
+
+.eight p{
+  font-size: 0.9em;
+  position: relative;
+  bottom: 10px;
+}
+
+.parag1{
+  padding-top: 5px;
+}
+
+#photo7{
+  width: 200px;
+  height: 200px;
+  position: relative;
+  left: 10px;
+  top: 5px;
+}
+
+.nine{
+  width: 220px;
+  height: 280px;
+  border: 2px solid black;
+  float: right;
+  background-color: #e3e8ef;
+}
+
+.nine p{
+  font-size: 0.8em;
+}
